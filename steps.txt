@@ -1,0 +1,57 @@
+Steps for the developemnt of the DISNEY hotstar API
+
+Endpoints 
+
+GET title 
+    -
+GET tv
+    -starplushows
+    -starvijayshows
+    -starbharatshows
+    -popularshows
+    -popularchannels
+
+GET sports
+    -popularsports
+    -prokabaddileague
+    -followthebulesspecial
+    -populartourmaments
+
+GET movies 
+    -actionmovies
+        title
+        releasedate
+        duraion
+        language
+        rated
+        brief
+        image
+        traier 
+        description
+    -comdeymovies
+    -popularmovies
+    -thoughprovoking
+    -crime 
+    -dark
+    -hardhiting
+    -newmovies
+    -biopic
+    topratedonimbd
+
+Project Depolyment 
+    - Heroku 
+
+Publish on Rapid API
+    - Plans 
+        - 3
+        - 6
+        - 9
+        - 12
+
+
+Approach
+
+GET movies 
+
+GET /v1/disneyhotstar/movies/actionmovies
+J9iN8x*fA*RfyS&
