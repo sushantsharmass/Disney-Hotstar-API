@@ -1,0 +1,39 @@
+[
+    {
+        "id" :1,
+        "name" : "Tiger Zinda Hai",
+        "releasedate": "2021",
+        "duration": 12.30,
+        "language" : [
+            {
+                "1": "english",
+                "2": "Hindi" 
+            }
+        ],
+        "brief" : "lorem20",
+        "image" : "url",
+        "tralier": "video",
+        "description": "hnji"
+        
+
+    },
+
+    {
+        "id" :2,
+        "name" : "Love story",
+        "releasedate": "2021",
+        "duration": 12.30,
+        "language" : [
+            {
+                "1": "english",
+                "2": "Hindi" 
+            }
+        ],
+        "brief" : "lorem20",
+        "image" : "url",
+        "tralier": "video",
+        "description": "hnji"
+        
+
+    }
+]

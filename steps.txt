@@ -55,3 +55,36 @@ GET movies
 
 GET /v1/disneyhotstar/movies/actionmovies
 J9iN8x*fA*RfyS&
+
+
+Get / v1/movies/actionmovies
+Database model 
+   title {
+     type = 'string'
+     required = 
+   }
+   releasedate
+   {
+    type = date
+    required = 
+   }
+    duraion {
+     type 
+    }
+    language = {
+        type: 'string'
+        
+
+    }
+    rated
+    brief
+    image
+    traier 
+    description
+
+
+Post/ 
+
+Patch / 
+
+Delete / 
