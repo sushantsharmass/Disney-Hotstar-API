@@ -1,0 +1,22 @@
+[
+    {
+        "code": "hi",
+        "language": "Hindi"
+    },
+    {
+        "code": "en",
+        "language": "English"
+    },
+    {
+        "code": "ta",
+        "language": "Tamil"
+    },
+    {
+        "code": "mi",
+        "language": "Malayalm"
+    },
+    {
+        "code": "kn",
+        "language": "Kannada"
+    }
+]
