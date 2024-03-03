@@ -2,7 +2,10 @@
   "name": "disney-hotstar-api",
   "version": "1.0.0",
   "description": "This is Rest API of Disney-Hotstar",
-  "main": "index.js",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
